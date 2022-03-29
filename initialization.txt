@@ -1,0 +1,4 @@
+1. git init 
+2. notepad README.md
+3. git add .
+4. git commit -m "First commit"
