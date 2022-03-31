@@ -2,12 +2,3 @@ a) Ако е веќе предходно креиран локално
 1. git remote add origin https://github.com/stefbelchev/si_practice.git
 2. git remote -v
 3. git clone https://github.com/stefbelchev/si_practice
-<<<<<<< HEAD
-4. eve i tuka da dodame neshto za da simulirame konflikt
-=======
-<<<<<<< HEAD
-4. da smenime neshto
-=======
-4. eve i tuka da dodame neshto za da simulirame konflikt
->>>>>>> 208222a2a7cb132f16c5589980b87989e905ac8a
->>>>>>> 073c1e84f752c21f4049e01e69f32b0694ba64d1
