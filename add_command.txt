@@ -1,0 +1,5 @@
+1.$ git add --all
+2.$ git add -a
+3.$ git add .
+4.$ git add <list of files>
+5.$ git commit -a -m "Add files to stage and commit at the same time"
